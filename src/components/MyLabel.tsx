@@ -50,3 +50,5 @@ export const MyLabel = ({
     </div>
   )
 }
+
+export default MyLabel;
