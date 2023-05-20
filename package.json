@@ -10,8 +10,8 @@
     "type": "git"
   },
   "peerDependencies": {
-    "react": ">=18",
-    "typescript": ">=4.9.0"
+    "react": ">=18"
+    
   },
   "release": {
     "branches": [
